@@ -1,0 +1,43 @@
+{
+    "devlist": [
+        {
+            "icon": "fa-html5"
+        },
+        {
+            "icon": "fa-css3-alt"
+        },
+        {
+            "icon": "fa-js-square"
+        },
+        {
+            "icon": "fa-angular"
+        },
+        {
+            "icon": "fa-node-js"
+        },
+        {
+            "icon": "fa-npm"
+        },
+        {
+            "icon": "fa-java"
+        },
+        {
+            "icon": "fa-docker"
+        },
+        {
+            "icon": "fa-git"
+        },
+        {
+            "icon": "fa-github"
+        },
+        {
+            "icon": "fa-jenkins"
+        },
+        {
+            "icon": "fa-python"
+        },
+        {
+            "icon": "fa-linux"
+        }
+    ]
+}

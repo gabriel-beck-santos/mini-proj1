@@ -1,0 +1,20 @@
+{
+    "hobbies": [
+        {
+            "name": "Play Video Game",
+            "icon": "fa-gamepad"
+        },
+        {
+            "name": "Play Guitar",
+            "icon": "fa-guitar"
+        },
+        {
+            "name": "Watch Movies, Series and Anime",
+            "icon": "fa-tv"
+        },
+        {
+            "name": "Read About Tech",
+            "icon": "fa-robot"
+        }
+    ]
+}
