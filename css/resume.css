@@ -174,3 +174,12 @@ a {
 a:hover, a:focus, a:active {
   color: #001C60;
 }
+
+.blue {
+  background-color: #001C60;
+}
+
+.fa-linkedin {
+  background: #55ACEE;
+  color: white;
+}
